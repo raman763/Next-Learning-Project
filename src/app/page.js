@@ -1,11 +1,10 @@
-"use client";
-import Navbar from "./Common/Navbar/Navbar";
+import Image from "next/image";
 import styles from "./page.module.css";
 
 export default function Home() {
   return (
     <main className={styles.main}>
-      <Navbar />
+      <h1>gnhgw</h1>
     </main>
   );
 }
